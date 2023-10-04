@@ -1,0 +1,68 @@
+﻿@model List<Category>
+
+<div class="card shadow border-primary shadow-lg mt-4">
+    <div class="card-header bg-primary text-white m-lg-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center"
+            <h2 class="text-white py-2">Category List</h2>
+        </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <div class="row pb-3">
+            <div class="col-6">
+              
+            </div>
+            <div class="col-6 text-end">
+                <a asp-controller="Category" asp-action="Create" class="btn btn-outline-primary ">
+                    <i class="bi bi-plus-square-fill"></i>
+                    Create New Category
+                </a>
+
+            </div>
+        </div>
+        <div class="table-responsive-lg">
+            <div class="table-responsive-lg">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Category Name
+                            </th>
+                            <th>
+                                Display Order
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var obj in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @obj.Name
+                                </td>
+                                <td>
+                                    @obj.DisplayOrder
+                                </td>
+                                <td>
+                                    <div class="btn-group d-flex flex-wrap" role="group">
+                                        <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-1 mb-1">
+                                            <i class="bi bi-pencil-square"></i>
+                                            <span class="d-none d-lg-inline">Edit</span>
+                                        </a>
+                                        <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-1 mb-1">
+                                            <i class="bi bi-trash3"></i>
+                                            <span class="d-none d-lg-inline">Delete</span>
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+    </div>
+</div>

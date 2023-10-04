@@ -1,0 +1,65 @@
+.divider-text:before,
+.divider-text:after {
+    color:white;
+    content: "";
+    flex: 1;
+    border-bottom: 2px solid #555;
+    margin: auto 0.25rem;
+    box-shadow: 0 -2px;
+}
+
+.card { /* Shtobi kartocka ne menala razmer*/
+    min-height: 300px;
+}
+
+.card-img-top {
+    height: 150px; 
+    object-fit: cover; 
+}
+
+
+.card {
+    display: grid;
+    grid-template-rows: 150px auto; 
+}
+
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+  display: none;
+}
+
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+
+.hide {
+    display: none;
+}
+
+.myDIV:hover + .hide {
+    display: block;
+    color: red;
+}

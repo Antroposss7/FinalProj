@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\bin\Debug\net7.0\FProject.Utility.deps.json
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\bin\Debug\net7.0\FProject.Utility.dll
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\bin\Debug\net7.0\FProject.Utility.pdb
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.dll
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\refint\FProject.Utility.dll
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\FProject.Utility.pdb
+C:\Users\Lenovo\source\repos\FProject\FProject.Utility\obj\Debug\net7.0\ref\FProject.Utility.dll

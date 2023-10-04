@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Product>
+<style>
+    .card {
+        
+        min-height: 300px;
+    }
+    .card-img-top {
+        height: 150px; /* или любая другая высота, которая подходит вашему дизайну */
+        object-fit: cover; /* это убедится, что изображение будет корректно отображаться */
+    }
+
+
+    .card-content {
+        flex: 1; /* Это позволит содержимому карточки занимать все доступное пространство */
+    }
+</style>
+
+
+
+<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6">
+            <div class="row p-2">
+                <div class="col-12 p-1">
+                    <div class="card border-primary border-2 pb-1 p-3 shadow">
+
+                        <img src="@product.ImageUrl" class="card-img-top rounded w-100 h-100" alt="@product.Title" />
+                        <div class="pl-1 pt-2">
+                            <p class="card-title h5 text-dark opacity-75 text-uppercase text-center">@product.Title</p>
+                            <p class="cardcard-title text-warning text-center">by <b>@product.Artist</b></p>
+                        </div>
+                        <div class="pl-1 pt-2">
+                            <p class="h5 text-dark text-opacity-7 5 text-center">
+                                List Price:
+                                <span class="text-decoration-line-through">
+                                    @product.ListPrice.ToString("c")
+                                </span>
+                            </p>
+                        </div>
+                        <div class="pl-1 pt-2">
+                            <p class="h5 text-dark text-opacity-7 5 text-center">
+                                As low as: <span>@product.Price25.ToString("c")</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="pt-1">
+                        <a asp-action="Details"
+                           asp-route-productId="@product.Id"
+                           class="btn btn-outline-primary border-2 form-control">
+                            Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
