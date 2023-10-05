@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+deaYNOA67bkHL8XPG9fFizfkIq0OaJ2CAnHVbz/KWY=",
+  "Hash": "dKUPlWkWQJCZLGe07GbPnGiTUVpibhBG+QpAiE7t4yg=",
   "Source": "FProject.Web",
   "BasePath": "_content/FProject.Web",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/product/9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg",

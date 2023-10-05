@@ -297,3 +297,5 @@ C:\Users\Lenovo\source\repos\FProject\FProject\obj\Debug\net7.0\FProject.Web.pdb
 C:\Users\Lenovo\source\repos\FProject\FProject\obj\Debug\net7.0\FProject.Web.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\FProject\FProject\obj\Debug\net7.0\ref\FProject.Web.dll
 C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll

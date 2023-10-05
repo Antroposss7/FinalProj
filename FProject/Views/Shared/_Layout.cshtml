@@ -33,7 +33,7 @@
 
                         </li>
 
-                       
+
 
                         @if (User.IsInRole(SD.Role_Admin))
                         {
@@ -60,26 +60,19 @@
                                     </li>
 
                                 </ul>
-                            </li>
-                        }
-                        @if (HttpContextAccessor.HttpContext.Session.GetInt32(SD.SessionCart) != null)
-                        {
-
                             <li class="nav-item">
                                 <a class="nav-link" asp-area="Customer" asp-controller="Cart">
-                                    Cart
-                                    <i class="bi bi-cart"></i> &nbsp;
-                                    (@HttpContextAccessor.HttpContext.Session.GetInt32(SD.SessionCart))
+                                        @await Component.InvokeAsync("ShoppingCart");
                                 </a>
                             </li>
+                            </li>
                         }
-                        else
+
+                        @if (User.IsInRole(SD.Role_Customer))
                         {
                             <li class="nav-item">
                                 <a class="nav-link" asp-area="Customer" asp-controller="Cart">
-                                    Cart
-                                    <i class="bi bi-cart"></i> &nbsp;
-                                    (0)
+                                    @await Component.InvokeAsync("ShoppingCart");
                                 </a>
                             </li>
                         }
@@ -100,7 +93,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer bg-primary text-muted">
+    <footer class="h-100 border-top footer bg-primary text-muted">
         <div class="text-center">
             Made With <i class="bi bi-balloon-heart-fill"></i> by Ruslan Murtuzaliyev
         </div>

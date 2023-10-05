@@ -9,6 +9,8 @@
       "FProject.Web/1.0.0": {
         "dependencies": {
           "FProject.DataAccess": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.Facebook": "7.0.11",
+          "Microsoft.AspNetCore.Authentication.Google": "7.0.11",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.10",
           "Microsoft.AspNetCore.Identity.UI": "7.0.10",
           "Microsoft.EntityFrameworkCore": "7.0.10",
@@ -617,6 +619,22 @@
           "Microsoft.AspNetCore.Authentication.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Http": "2.2.0",
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0"
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Facebook/7.0.11": {
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.Facebook.dll": {
+            "assemblyVersion": "7.0.11.0",
+            "fileVersion": "7.0.1123.42502"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/7.0.11": {
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "7.0.11.0",
+            "fileVersion": "7.0.1123.42502"
+          }
         }
       },
       "Microsoft.AspNetCore.Authorization/2.2.0": {
@@ -3435,6 +3453,20 @@
       "sha512": "sha512-XlVJzJ5wPOYW+Y0J6Q/LVTEyfS4ssLXmt60T0SPP+D8abVhBTl+cgw2gDHlyKYIkcJg7btMVh383NDkMVqD/fg==",
       "path": "microsoft.aspnetcore.authentication.core/2.2.0",
       "hashPath": "microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Facebook/7.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fVcho8jdLHdgilHs3kYix/rdiK8sFrL7Klrtkm+Bge1o8ZGPQaUEPlQ18Kqv8tGBcCwM1gQ+pXmyQrbPiVHUgw==",
+      "path": "microsoft.aspnetcore.authentication.facebook/7.0.11",
+      "hashPath": "microsoft.aspnetcore.authentication.facebook.7.0.11.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/7.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tEIhPwZpF9Sa6w0hbQsRYQ+0AzL4aIRSyNu6gbkCdPwjILIl567IEAGCVTzkzi/Kxqvyz4N75tz3hDJ0szKmaA==",
+      "path": "microsoft.aspnetcore.authentication.google/7.0.11",
+      "hashPath": "microsoft.aspnetcore.authentication.google.7.0.11.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authorization/2.2.0": {
       "type": "package",
