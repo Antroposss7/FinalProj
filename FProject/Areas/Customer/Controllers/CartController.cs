@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using FProject.Models;
 using FProject.Utility;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.IdentityModel.Tokens;
 using Stripe.Checkout;
 
@@ -15,12 +16,14 @@ namespace FProject.Web.Areas.Customer.Controllers
     public class CartController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IEmailSender _emailSender;
         [BindProperty]
         public ShoppingCartVM ShoppingCartVM { get; set; }
 
-        public CartController(IUnitOfWork unitOfWork)
+        public CartController(IUnitOfWork unitOfWork, IEmailSender emailSender)
         {
             _unitOfWork = unitOfWork;
+            _emailSender = emailSender;
 
         }
         public IActionResult Index()
@@ -167,6 +170,12 @@ namespace FProject.Web.Areas.Customer.Controllers
                 _unitOfWork.Save();
             }
             HttpContext.Session.Clear();
+
+            if (orderHeader.ApplicationUser.Email != null)
+                _emailSender.SendEmailAsync(orderHeader.ApplicationUser.Email, "New Order - Product",
+                    $"<p>New Order Created - {orderHeader.Id}</p>");
+
+
             List<ShoppingCart> shoppingCarts = _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == orderHeader.ApplicationUserId).ToList();
             _unitOfWork.ShoppingCart.RemoveRange(shoppingCarts);
             _unitOfWork.Save();

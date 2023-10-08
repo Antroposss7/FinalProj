@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dKUPlWkWQJCZLGe07GbPnGiTUVpibhBG+QpAiE7t4yg=",
+  "Hash": "v3ms1cNLstmIj1QHpPq4sXrPJqPTXJaffoZasuioEB0=",
   "Source": "FProject.Web",
   "BasePath": "_content/FProject.Web",
   "Mode": "Default",
@@ -1120,6 +1120,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Happy-PC-user.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_hover.jpg",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/kaws_hover.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kaws_hover.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\Kaws_Logo.jpg",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/Kaws_Logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Kaws_Logo.jpg"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",

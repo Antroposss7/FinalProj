@@ -7,6 +7,13 @@
     margin: auto 0.25rem;
     box-shadow: 0 -2px;
 }
+#logo {
+    transition: all 2s ease-in-out;
+}
+
+#logo:hover {
+    content: url('../images/kaws_logo_hover.jpg');
+}
 
 .card { /* Shtobi kartocka ne menala razmer*/
     min-height: 300px;
