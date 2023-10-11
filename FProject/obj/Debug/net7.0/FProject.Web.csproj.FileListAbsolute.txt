@@ -301,3 +301,4 @@ C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\Microsoft.AspNet
 C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
 C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\SendGrid.dll
 C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\Lenovo\source\repos\FProject\FProject\bin\Debug\net7.0\appsettings.Production.json
