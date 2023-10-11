@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v3ms1cNLstmIj1QHpPq4sXrPJqPTXJaffoZasuioEB0=",
+  "Hash": "6ANfeiklJIEXz9mTzzTgXqX0Qv/0JRz6qUTPnWDt0sA=",
   "Source": "FProject.Web",
   "BasePath": "_content/FProject.Web",
   "Mode": "Default",
@@ -1122,12 +1122,12 @@
       "OriginalItemSpec": "wwwroot\\images\\Happy-PC-user.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_hover.jpg",
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_logo.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
-      "RelativePath": "images/kaws_hover.jpg",
+      "RelativePath": "images/kaws_logo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\kaws_hover.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\kaws_logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\Kaws_Logo.jpg",
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_logo_hover.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
-      "RelativePath": "images/Kaws_Logo.jpg",
+      "RelativePath": "images/kaws_logo_hover.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,7 +1153,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Kaws_Logo.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\kaws_logo_hover.jpg"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",

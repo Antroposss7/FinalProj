@@ -17,12 +17,12 @@
       "PackagePath": "staticwebassets\\images\\Happy-PC-user.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\Kaws_Logo.jpg",
-      "PackagePath": "staticwebassets\\images\\Kaws_Logo.jpg"
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_logo.jpg",
+      "PackagePath": "staticwebassets\\images\\kaws_logo.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_hover.jpg",
-      "PackagePath": "staticwebassets\\images\\kaws_hover.jpg"
+      "Id": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_logo_hover.jpg",
+      "PackagePath": "staticwebassets\\images\\kaws_logo_hover.jpg"
     },
     {
       "Id": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
