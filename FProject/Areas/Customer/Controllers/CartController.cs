@@ -115,7 +115,7 @@ namespace FProject.Web.Areas.Customer.Controllers
                 _unitOfWork.Save();
             }
 
-            var domain = "https://localhost:7182/";
+            var domain = "https://kawsbaku.azurewebsites.net/";
             var options = new SessionCreateOptions
             {
                 SuccessUrl = domain + $"customer/cart/OrderConfirmation?id={ShoppingCartVM.OrderHeader.Id}",
