@@ -30,14 +30,14 @@ namespace FProject.Models
         [Required]
         [Display(Name = "Price for 1-10")]
         [Range(1, 10000)]
-        public double Price{ get; set; }
+        public double Price { get; set; }
         [Required]
         [Display(Name = "Price for 10+")]
         [Range(1, 10000)]
         public double Price10 { get; set; }
         [Required]
         [Display(Name = "Price for 25+")]
-        [Range(1,10000)]
+        [Range(1, 10000)]
         public double Price25 { get; set; }
         public int CategoryId { get; set; }
 
@@ -46,7 +46,7 @@ namespace FProject.Models
         public Category Category { get; set; }
 
         [ValidateNever]
-        public string ImageUrl { get; set; }
+        public List<ProductImage> ProductImages { get; set; }
 
 
 

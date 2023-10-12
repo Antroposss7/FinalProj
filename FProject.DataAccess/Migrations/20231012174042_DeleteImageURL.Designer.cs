@@ -4,6 +4,7 @@ using FProject.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FProject.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231012174042_DeleteImageURL")]
+    partial class DeleteImageURL
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -293,28 +296,47 @@ namespace FProject.DataAccess.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
-                });
 
-            modelBuilder.Entity("FProject.Models.ProductImage", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("ProductId")
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ProductId");
-
-                    b.ToTable("ProductImages");
+                    b.HasData(
+                        new
+                        {
+                            Id = 4,
+                            Artist = "WS3333333301",
+                            CategoryId = 1,
+                            Color = "Black",
+                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                            ListPrice = 70.0,
+                            Price = 65.0,
+                            Price10 = 60.0,
+                            Price25 = 55.0,
+                            Title = "Cotton Candy"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Artist = "SOTJ1111111101",
+                            CategoryId = 2,
+                            Color = "Black",
+                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                            ListPrice = 30.0,
+                            Price = 27.0,
+                            Price10 = 25.0,
+                            Price25 = 20.0,
+                            Title = "Rock in the Ocean"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Artist = "FOT000000001",
+                            CategoryId = 3,
+                            Color = "Black",
+                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                            ListPrice = 25.0,
+                            Price = 23.0,
+                            Price10 = 22.0,
+                            Price25 = 20.0,
+                            Title = "Leaves and Wonders"
+                        });
                 });
 
             modelBuilder.Entity("FProject.Models.ShoppingCart", b =>
@@ -518,17 +540,6 @@ namespace FProject.DataAccess.Migrations
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("FProject.Models.ProductImage", b =>
-                {
-                    b.HasOne("FProject.Models.Product", "Product")
-                        .WithMany("ProductImages")
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Product");
-                });
-
             modelBuilder.Entity("FProject.Models.ShoppingCart", b =>
                 {
                     b.HasOne("FProject.Models.ApplicationUser", "ApplicationUser")
@@ -597,11 +608,6 @@ namespace FProject.DataAccess.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("FProject.Models.Product", b =>
-                {
-                    b.Navigation("ProductImages");
                 });
 #pragma warning restore 612, 618
         }

@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 namespace FProject.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    //[Authorize(Roles = SD.Role_Admin)]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -71,23 +71,23 @@ namespace FProject.Web.Areas.Admin.Controllers
                 string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                 string productPath = Path.Combine(wwwRootPath, "images", "product");
 
-                if (!string.IsNullOrEmpty(productVM.Product.ImageUrl))
-                {
-                    // udaleniye fotki
-                    var oldImagePath = Path.Combine(wwwRootPath, productVM.Product.ImageUrl.TrimStart('\\'));
+                //if (!string.IsNullOrEmpty(productVM.Product.ImageUrl))
+                //{
+                //    udaleniye fotki
+                //    var oldImagePath = Path.Combine(wwwRootPath, productVM.Product.ImageUrl.TrimStart('\\'));
 
-                    if (System.IO.File.Exists(oldImagePath))
-                    {
-                        System.IO.File.Delete(oldImagePath);
-                    }
-                }
+                //    if (System.IO.File.Exists(oldImagePath))
+                //    {
+                //        System.IO.File.Delete(oldImagePath);
+                //    }
+                //}
 
                 using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
                 {
                     file.CopyTo(fileStream);
                 }
 
-                productVM.Product.ImageUrl = $@"\images\product\{fileName}";
+                //productVM.Product.ImageUrl = $@"\images\product\{fileName}";
             }
 
             if (productVM.Product.Id == 0)
@@ -123,13 +123,13 @@ namespace FProject.Web.Areas.Admin.Controllers
                 return Json(new { success = false, message = "Error while deleting!" });
             }
 
-            var oldImagePath =
-                Path.Combine(_webHostEnvironment.WebRootPath, productToBeDeleted.ImageUrl.TrimStart('\\'));
+            //var oldimagepath =
+            //    path.combine(_webhostenvironment.webrootpath, producttobedeleted.imageurl.trimstart('\\'));
 
-            if (System.IO.File.Exists(oldImagePath))
-            {
-                System.IO.File.Delete(oldImagePath);
-            }
+            //if (System.IO.File.Exists(oldImagePath))
+            //{
+            //    System.IO.File.Delete(oldImagePath);
+            //}
 
             _unitOfWork.Product.Remove(productToBeDeleted);
             _unitOfWork.Save();
