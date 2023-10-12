@@ -152,7 +152,7 @@ namespace FProject.Web.Areas.Customer.Controllers
             _unitOfWork.OrderHeader.UpdateStripePaymentID(ShoppingCartVM.OrderHeader.Id, session.Id, session.PaymentIntentId);
             _unitOfWork.Save();
             Response.Headers.Add("Location", session.Url);
-            //return new StatusCodeResult(303);
+            return new StatusCodeResult(303);
             return RedirectToAction(nameof(OrderConfirmation), new { id = ShoppingCartVM.OrderHeader.Id });
         }
 
