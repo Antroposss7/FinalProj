@@ -34,6 +34,7 @@ namespace FProject.DataAccess.Repository
                 objFromDb.ListPrice = obj.ListPrice;
                 objFromDb.Color = obj.Color;
                 objFromDb.CategoryId = obj.CategoryId;
+                objFromDb.ProductImages = obj.ProductImages;
             }
         }
 
