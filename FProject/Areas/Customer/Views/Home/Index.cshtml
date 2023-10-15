@@ -1,44 +1,48 @@
-﻿@model IEnumerable<Product>
+﻿@model PagedResult<Product>
+
 
 
 
 <div class="row pb-3">
-    @foreach (var product in Model)
+
+    @foreach (var product in Model.Items)
     {
         <div class="col-lg-3 col-sm-6">
             <div class="row p-2">
-                <div class="col-12 p-1">
-                    <div class="card border-primary border-2 pb-1 p-3 shadow">
+                <div class="col-12 p-1 ">
+                    <div id="maincard" class="card border-primary border-2 pb-1 p-3 shadow">
                         @if (product.ProductImages != null && product.ProductImages.Any())
                         {
-                            <img src="@product.ProductImages.FirstOrDefault().ImageUrl" class ="card-img-top rounded"/>
+                            <img src="@product.ProductImages.FirstOrDefault().ImageUrl" class="card-img-top rounded" />
                         }
                         else
                         {
-                            <img src ="https://placehold.co/500x600/png" class="card-img-top rounded"/>
+                            <img src="https://placehold.co/500x600/png" class="card-img-top rounded" />
                         }
-                        <div class="pl-1 pt-2">
-                            <p class="card-title h5 text-dark opacity-75 text-uppercase text-center">@product.Title</p>
-                            <p class="cardcard-title text-warning text-center">by <b>@product.Artist</b></p>
-                        </div>
-                        <div class="pl-1 pt-2">
-                            <p class="h5 text-dark text-opacity-7 5 text-center">
-                                List Price:
-                                <span class="text-decoration-line-through">
-                                    @product.ListPrice.ToString("c")
-                                </span>
-                            </p>
-                        </div>
-                        <div class="pl-1 pt-2">
-                            <p class="h5 text-dark text-opacity-7 5 text-center">
-                                As low as: <span>@product.Price25.ToString("c")</span>
-                            </p>
+                        <div class="rounded bg-black bg-opacity-50">
+                            <div class="pl-1 pt-2">
+                                <p class="card-title h5 text-white opacity-75 text-uppercase text-center">@product.Title</p>
+                                <p class="cardcard-title text-warning text-center">by <b>@product.Artist</b></p>
+                            </div>
+                            <div class="pl-1 pt-2">
+                                <p class="h5 text-white text-opacity-7 5 text-center">
+                                    List Price:
+                                    <span class="text-decoration-line-through">
+                                        @product.ListPrice.ToString("c")
+                                    </span>
+                                </p>
+                            </div>
+                            <div class="pl-1 pt-2">
+                                <p class="h5 text-dark text-opacity-7 5 text-center">
+                                    As low as: <span>@product.Price25.ToString("c")</span>
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="pt-1">
                         <a asp-action="Details"
                            asp-route-productId="@product.Id"
-                           class="btn btn-outline-primary border-2 form-control">
+                           class="btn btn-primary border-2 form-control">
                             Details
                         </a>
                     </div>
@@ -46,5 +50,15 @@
             </div>
         </div>
     }
+    <nav>
+        <ul class="pagination">
+            @for (var i = 1; i <= Model.PageCount; i++)
+            {
+                <li class="page-item @(i == Model.PageNumber ? "active" : "")">
+                    <a class="page-link" asp-action="Index" asp-route-pageNumber="@i">@i</a>
+                </li>
+            }
+        </ul>
+    </nav>
 </div>
 

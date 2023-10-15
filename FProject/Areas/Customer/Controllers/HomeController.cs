@@ -1,5 +1,7 @@
 ﻿using FProject.DataAccess.Repository.IRepository;
 using FProject.Models;
+using FProject.Models.ViewModels;
+
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
@@ -20,13 +22,26 @@ namespace FProject.Web.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int pageNumber = 1, int pageSize = 2)
         {
+            var productList = _unitOfWork.Product.GetAll(includeProperties: "Category,ProductImages")
+                                                .Skip((pageNumber - 1) * pageSize)
+                                                .Take(pageSize)
+                                                .ToList();
 
+            var totalProducts = _unitOfWork.Product.GetAll().Count();
 
-            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category,ProductImages");
-            return View(productList);
+            var pagedModel = new PagedResult<Product>
+            {
+                Items = productList,
+                PageNumber = pageNumber,
+                PageSize = pageSize,
+                TotalItemCount = totalProducts
+            };
+
+            return View(pagedModel);
         }
+
 
 
 

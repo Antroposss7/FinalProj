@@ -19,16 +19,17 @@
 .card {
     min-height: 300px;
     transition: transform 0.3s ease;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 @media (min-width: 768px) {
-    .card:hover {
+   #maincard:hover {
         transform: scale(1.1);
     }
 }
 
 .card a, .card button {
-    pointer-events: all; /* добавлено */
+    pointer-events: all; 
 }
 
 .card-img-top {
@@ -64,7 +65,11 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url('https://images2.alphacoders.com/132/1323470.png');
+    background-repeat: no-repeat;
+    background-size: cover; /* Это заставляет изображение покрывать весь экран */
+    background-attachment: fixed; /* Это делает фон неподвижным при прокрутке */
 }
   display: none;
 }
