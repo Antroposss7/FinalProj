@@ -1,7 +1,7 @@
 ﻿@model ShoppingCart
 
 <form method="post">
-    <input hidden asp-for="ProductId"/>
+    <input hidden asp-for="ProductId" />
     <div class="card shadow border-0 mt-4">
         <div class="card-header bg-secondary bg-primary text-black py-4">
             <div class="row">
@@ -22,7 +22,38 @@
                 </div>
                 <div class="row">
                     <div class="col-12 col-lg-3 offset-lg-1 text-center mb-3 h-100">
-                        @* <img src="@Model.Product.ImageUrl"  class="w-100 h-100 rounded"/> *@
+
+
+                        @if (Model.Product.ProductImages != null && Model.Product.ProductImages.Count > 0)
+                        {
+                            var carouselId = $"carouselForProduct{Model.Product.Id}";
+                            <div id="@carouselId" class="carousel slide" data-bs-ride="carousel">
+                                <div class="carousel-indicators">
+                                    @foreach (var imageWithIndex in Model.Product.ProductImages.Select((image, index) => new { Image = image, Index = index }))
+                                    {
+                                        <button type="button" data-bs-target="#@carouselId" data-bs-slide-to="@imageWithIndex.Index" class="@(imageWithIndex.Index == 0 ? "active" : "")" aria-current="true" aria-label="Slide @imageWithIndex.Index"></button>
+                                    }
+                                </div>
+                                <div class="carousel-inner">
+                                    @foreach (var imageWithIndex in Model.Product.ProductImages.Select((image, index) => new { Image = image, Index = index }))
+                                    {
+                                        <div class="@(imageWithIndex.Index == 0 ? "carousel-item active" : "carousel-item")">
+                                            <img src="@imageWithIndex.Image.ImageUrl" class="d-block w-100" alt="...">
+                                        </div>
+                                    }
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#@carouselId" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#@carouselId" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        }
+
+
                     </div>
                     <div class="col-12 col-lg-6 offset-lg-1">
 
@@ -80,7 +111,7 @@
                                         Count
                                     </span>
                                     <input asp-for="Count" type="number" value="1" class="form-control text-end"
-                                           aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default"/>
+                                           aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" />
 
                                 </div>
                             </div>

@@ -15,24 +15,36 @@
     content: url('../images/kaws_logo_hover.jpg');
 }
 
-.card { /* Shtobi kartocka ne menala razmer*/
+
+.card {
     min-height: 300px;
+    transition: transform 0.3s ease;
+}
+
+@media (min-width: 768px) {
+    .card:hover {
+        transform: scale(1.1);
+    }
+}
+
+.card a, .card button {
+    pointer-events: all; /* добавлено */
 }
 
 .card-img-top {
-    height: 150px; 
-    object-fit: cover; 
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-content {
+    flex: 1;
 }
 
 
-.card {
-    display: grid;
-    grid-template-rows: 150px auto; 
-}
 
 
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
