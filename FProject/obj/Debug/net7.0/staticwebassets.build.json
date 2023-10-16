@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vtmQ5HxF5BY2jOBqCJzbvCDghVbDJw98z50u6XMWqbs=",
+  "Hash": "Xim0CUhnfNa2zMEPctfpfhAlI8BRS6K99Q/vKU4P0yw=",
   "Source": "FProject.Web",
   "BasePath": "_content/FProject.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "FProject.Web\\wwwroot",
       "Source": "FProject.Web",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FProject.Web.styles.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FProject.Web.styles.css",
       "SourceId": "FProject.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "FProject.Web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FProject.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FProject.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FProject.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FProject.Web.bundle.scp.css",
       "SourceId": "FProject.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "FProject.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FProject.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FProject.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\css\\site.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\favicon.ico",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\Happy-PC-user.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\Happy-PC-user.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/Happy-PC-user.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Happy-PC-user.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_logo.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/kaws_logo.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kaws_logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\kaws_logo_hover.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo_hover.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/kaws_logo_hover.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kaws_logo_hover.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/product/1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/product/9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/product/9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/product/af6aba32-411a-417a-83ba-6eaa6025f852.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\16521935-3895-4b19-8044-da47421e8b84.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\16521935-3895-4b19-8044-da47421e8b84.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/16521935-3895-4b19-8044-da47421e8b84.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\16521935-3895-4b19-8044-da47421e8b84.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\20678ac7-7307-46a7-b596-99723a68e6f8.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\20678ac7-7307-46a7-b596-99723a68e6f8.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/20678ac7-7307-46a7-b596-99723a68e6f8.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\20678ac7-7307-46a7-b596-99723a68e6f8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\5392a009-4927-442c-9c15-d3b2cacc3b3e.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\5392a009-4927-442c-9c15-d3b2cacc3b3e.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/5392a009-4927-442c-9c15-d3b2cacc3b3e.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\5392a009-4927-442c-9c15-d3b2cacc3b3e.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\886d2e3d-d35c-4921-a8d4-39d2ba221980.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\886d2e3d-d35c-4921-a8d4-39d2ba221980.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/886d2e3d-d35c-4921-a8d4-39d2ba221980.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\886d2e3d-d35c-4921-a8d4-39d2ba221980.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-0\\d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-0/d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-0\\d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-10\\6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-10/6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-10\\acc4daa2-41c3-4733-b024-5b00c9effe61.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\acc4daa2-41c3-4733-b024-5b00c9effe61.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-10/acc4daa2-41c3-4733-b024-5b00c9effe61.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\acc4daa2-41c3-4733-b024-5b00c9effe61.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-10\\ef3aaabb-a224-4735-b0f7-9854401ee35f.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\ef3aaabb-a224-4735-b0f7-9854401ee35f.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-10/ef3aaabb-a224-4735-b0f7-9854401ee35f.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\ef3aaabb-a224-4735-b0f7-9854401ee35f.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-11\\42fe6ae4-5980-4099-8da2-4e555150abca.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\42fe6ae4-5980-4099-8da2-4e555150abca.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-11/42fe6ae4-5980-4099-8da2-4e555150abca.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\42fe6ae4-5980-4099-8da2-4e555150abca.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-11\\8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-11/8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-11\\c2bc3d3c-316f-4145-8512-60a888ded0b6.webp",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\c2bc3d3c-316f-4145-8512-60a888ded0b6.webp",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-11/c2bc3d3c-316f-4145-8512-60a888ded0b6.webp",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\c2bc3d3c-316f-4145-8512-60a888ded0b6.webp"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-8\\d413fcca-81aa-4ea3-acc0-26477b8305b8.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-8\\d413fcca-81aa-4ea3-acc0-26477b8305b8.png",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-8/d413fcca-81aa-4ea3-acc0-26477b8305b8.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-8\\d413fcca-81aa-4ea3-acc0-26477b8305b8.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-8\\fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-8\\fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-8/fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-8\\fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-9\\b9e76a16-ccd9-4830-81bc-4a671a588418.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\b9e76a16-ccd9-4830-81bc-4a671a588418.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-9/b9e76a16-ccd9-4830-81bc-4a671a588418.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\b9e76a16-ccd9-4830-81bc-4a671a588418.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-9\\e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-9/e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "images/products/product-9/ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\js\\order.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\js\\order.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "js/order.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\js\\product.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\js\\product.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "js/product.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\js\\site.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\FProject\\FProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\",
       "BasePath": "_content/FProject.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

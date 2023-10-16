@@ -10,3 +10,15 @@ C:\Users\Lenovo\source\repos\FProject\Fproject.Models\obj\Debug\net7.0\FProject.
 C:\Users\Lenovo\source\repos\FProject\Fproject.Models\obj\Debug\net7.0\refint\FProject.Models.dll
 C:\Users\Lenovo\source\repos\FProject\Fproject.Models\obj\Debug\net7.0\FProject.Models.pdb
 C:\Users\Lenovo\source\repos\FProject\Fproject.Models\obj\Debug\net7.0\ref\FProject.Models.dll
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\bin\Debug\net7.0\FProject.Models.deps.json
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\bin\Debug\net7.0\FProject.Models.dll
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\bin\Debug\net7.0\FProject.Models.pdb
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.dll
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\refint\FProject.Models.dll
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\FProject.Models.pdb
+C:\Users\Lenovo\Desktop\Final\FinalProj\Fproject.Models\obj\Debug\net7.0\ref\FProject.Models.dll
