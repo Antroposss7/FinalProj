@@ -6902,11 +6902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\Fproject.Models\\FProject.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\Fproject.Models\\FProject.Models.csproj",
       "projectName": "FProject.Models",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\Fproject.Models\\FProject.Models.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\Fproject.Models\\FProject.Models.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\Fproject.Models\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\Fproject.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
