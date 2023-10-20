@@ -1,359 +1,359 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FProject.Web.bundle.scp.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FProject.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\FProject.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\Happy-PC-user.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\Happy-PC-user.jpg",
       "PackagePath": "staticwebassets\\images\\Happy-PC-user.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo.jpg",
       "PackagePath": "staticwebassets\\images\\kaws_logo.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo_hover.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo_hover.jpg",
       "PackagePath": "staticwebassets\\images\\kaws_logo_hover.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
       "PackagePath": "staticwebassets\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg",
       "PackagePath": "staticwebassets\\images\\product\\9d1d6308-bac4-44c2-b815-6d250a3a9c87.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg",
       "PackagePath": "staticwebassets\\images\\product\\9d29e715-10b1-48d6-9e27-c9780a704065.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg",
       "PackagePath": "staticwebassets\\images\\product\\af6aba32-411a-417a-83ba-6eaa6025f852.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\16521935-3895-4b19-8044-da47421e8b84.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\16521935-3895-4b19-8044-da47421e8b84.png",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\16521935-3895-4b19-8044-da47421e8b84.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\20678ac7-7307-46a7-b596-99723a68e6f8.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\20678ac7-7307-46a7-b596-99723a68e6f8.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\20678ac7-7307-46a7-b596-99723a68e6f8.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\4f63caa3-581f-4f44-92ac-8a58dfd2dc90.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\5392a009-4927-442c-9c15-d3b2cacc3b3e.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\5392a009-4927-442c-9c15-d3b2cacc3b3e.png",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\5392a009-4927-442c-9c15-d3b2cacc3b3e.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\886d2e3d-d35c-4921-a8d4-39d2ba221980.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\886d2e3d-d35c-4921-a8d4-39d2ba221980.png",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\886d2e3d-d35c-4921-a8d4-39d2ba221980.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\89cfe9bb-cbc3-4aab-9fb1-ffaca801d371.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\a9b5b715-cfca-4f6d-8da4-0a8790a2eb37.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-0\\d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-0\\d8fc9d17-70d7-4408-a7ec-73076f04c77f.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp",
       "PackagePath": "staticwebassets\\images\\products\\product-10\\6ed25ab1-49e9-4bf5-8d5e-75e760ddca20.webp"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\acc4daa2-41c3-4733-b024-5b00c9effe61.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\acc4daa2-41c3-4733-b024-5b00c9effe61.png",
       "PackagePath": "staticwebassets\\images\\products\\product-10\\acc4daa2-41c3-4733-b024-5b00c9effe61.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\ef3aaabb-a224-4735-b0f7-9854401ee35f.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-10\\ef3aaabb-a224-4735-b0f7-9854401ee35f.png",
       "PackagePath": "staticwebassets\\images\\products\\product-10\\ef3aaabb-a224-4735-b0f7-9854401ee35f.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\42fe6ae4-5980-4099-8da2-4e555150abca.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\42fe6ae4-5980-4099-8da2-4e555150abca.png",
       "PackagePath": "staticwebassets\\images\\products\\product-11\\42fe6ae4-5980-4099-8da2-4e555150abca.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png",
       "PackagePath": "staticwebassets\\images\\products\\product-11\\8613d36c-2c94-420c-bc8e-c44bb76c5bdd.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\c2bc3d3c-316f-4145-8512-60a888ded0b6.webp",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-11\\c2bc3d3c-316f-4145-8512-60a888ded0b6.webp",
       "PackagePath": "staticwebassets\\images\\products\\product-11\\c2bc3d3c-316f-4145-8512-60a888ded0b6.webp"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-8\\d413fcca-81aa-4ea3-acc0-26477b8305b8.png",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-8\\d413fcca-81aa-4ea3-acc0-26477b8305b8.png",
       "PackagePath": "staticwebassets\\images\\products\\product-8\\d413fcca-81aa-4ea3-acc0-26477b8305b8.png"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-8\\fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-8\\fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-8\\fa5dd3fe-17ef-4bca-8c57-93404e5d3cd2.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\b9e76a16-ccd9-4830-81bc-4a671a588418.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\b9e76a16-ccd9-4830-81bc-4a671a588418.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-9\\b9e76a16-ccd9-4830-81bc-4a671a588418.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-9\\e76d23f3-221e-4e28-a830-4a06bf98c86f.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg",
       "PackagePath": "staticwebassets\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\js\\order.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\js\\order.js",
       "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Lenovo\\Desktop\\Final\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
