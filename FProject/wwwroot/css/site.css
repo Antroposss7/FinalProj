@@ -1,82 +1,113 @@
 .divider-text:before,
 .divider-text:after {
-    color:white;
+    color: white;
     content: "";
     flex: 1;
     border-bottom: 2px solid #555;
     margin: auto 0.25rem;
     box-shadow: 0 -2px;
-}
-#logo {
-    transition: all 2s ease-in-out;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-#logo:hover {
-    content: url('../images/kaws_logo_hover.jpg');
+.footer-branding {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px 0;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
+    .footer-branding a {
+        color: #fff;
+        margin: 0 15px;
+        font-size: 32px;
+        transition: color 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    }
+
+        .footer-branding a:hover {
+            color: gray;
+            transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+        }
+
+.footer-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.social-icons {
+    justify-content: flex-end;
+}
 
 .card {
     min-height: 300px;
-    transition: transform 0.3s ease;
-    background-color: rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 @media (min-width: 768px) {
-   #maincard:hover {
+    #maincard:hover {
         transform: scale(1.1);
     }
 }
 
 .card a, .card button {
-    pointer-events: all; 
+    pointer-events: all;
 }
 
 .card-img-top {
     height: 150px;
     object-fit: cover;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .card-content {
     flex: 1;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
-
-
-
 
 html {
     font-size: 14px;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 body {
     margin-bottom: 60px;
-    background-image: url('https://images2.alphacoders.com/132/1323470.png');
+    background-image: url('../images/kaws-bg.jpg');
     background-repeat: no-repeat;
-    background-size: cover; /* Это заставляет изображение покрывать весь экран */
-    background-attachment: fixed; /* Это делает фон неподвижным при прокрутке */
-}
-  display: none;
+    background-size: cover;
+    background-attachment: fixed;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .myDIV:hover + .hide {
-  display: block;
-  color: red;
+    display: block;
+    color: red;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .hide {
@@ -86,4 +117,85 @@ body {
 .myDIV:hover + .hide {
     display: block;
     color: red;
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+
+.dropdown-menu {
+    z-index: 9999; 
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+
+.navbar-branding {
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+    .navbar-branding:hover {
+        transform: scale(1.05);
+    }
+
+.navbar-toggler {
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+    .navbar-toggler:hover {
+        transform: scale(1.05);
+    }
+@keyframes springy {
+    0% {
+        transform: scale(0.9) translateY(-10px);
+        opacity: 0.5;
+    }
+
+    70% {
+        transform: scale(1.1) translateY(10px);
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+}
+
+.dropdown-menu {
+    animation: springy 0.5s forwards;
+    transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    width: 250px;
+    background-color: var(--bs-primary);
+    color: white;
+   
+}
+
+.nav-item {
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+    .nav-item:hover {
+        transform: scale(1.05);
+    }
+
+.nav-link {
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+    .nav-link:hover {
+        transform: scale(1.05);
+    }
+
+.dropdown-item {
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+    .dropdown-item:hover {
+        transform: scale(1.05);
+    }
+
+
+.icon {
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+    .icon:hover {
+        transform: scale(1.05);
+    }

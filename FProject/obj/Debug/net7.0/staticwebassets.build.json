@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ovx1wYWEhDyzn7zBdOLNQnMVbw3DIfzxl14FtdTs24A=",
+  "Hash": "ayguQuzRXEOqORS+8YWNrdrOjxSQi3ob+Ojo8myGEYw=",
   "Source": "FProject.Web",
   "BasePath": "_content/FProject.Web",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "OriginalItemSpec": "wwwroot\\images\\Happy-PC-user.jpg"
     },
     {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\headerkaws.png",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/headerkaws.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\headerkaws.png"
+    },
+    {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
@@ -1154,6 +1171,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\kaws_logo_hover.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws-bg.jpg",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/kaws-bg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kaws-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws-vector-1.svg",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/kaws-vector-1.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kaws-vector-1.svg"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\product\\1faf230f-402d-40b2-b2c7-db31096d5f53.jpg",
