@@ -8,6 +8,25 @@
     box-shadow: 0 -2px;
     transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+/* Стиль для карточки */
+#maincard {
+    transition: transform 0.3s, box-shadow 0.3s; /* плавный переход для transform и box-shadow */
+}
+
+    #maincard:hover {
+        transform: scale(1.05); /* при наведении карточка увеличивается на 5% */
+        box-shadow: 0 5px 15px rgba(0,0,0,0.5); /* при наведении добавляется тень */
+    }
+
+/* Стиль для кнопки */
+.btn {
+    transition: background-color 0.3s, color 0.3s; /* плавный переход для background-color и color */
+}
+
+    .btn:hover {
+        background-color: dimgrey; /* цвет фона кнопки при наведении */
+        color: white; /* цвет текста кнопки при наведении */
+    }
 
 .footer-branding {
     background-color: #007bff;
