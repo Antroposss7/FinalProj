@@ -17,8 +17,16 @@
       "PackagePath": "staticwebassets\\images\\Happy-PC-user.jpg"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\WELCOME TO KAWS BAKU.png",
+      "PackagePath": "staticwebassets\\images\\WELCOME TO KAWS BAKU.png"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\headerkaws.png",
       "PackagePath": "staticwebassets\\images\\headerkaws.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\icon_comment.png",
+      "PackagePath": "staticwebassets\\images\\icon_comment.png"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws-bg.jpg",

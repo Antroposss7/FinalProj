@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ayguQuzRXEOqORS+8YWNrdrOjxSQi3ob+Ojo8myGEYw=",
+  "Hash": "tnKfvDYkJpFwqSg7A2/Dp4SCWz/CdfvhKiDvnL4ROyg=",
   "Source": "FProject.Web",
   "BasePath": "_content/FProject.Web",
   "Mode": "Default",
@@ -1139,6 +1139,23 @@
       "OriginalItemSpec": "wwwroot\\images\\headerkaws.png"
     },
     {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\icon_comment.png",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/icon_comment.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icon_comment.png"
+    },
+    {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\kaws_logo.jpg",
       "SourceId": "FProject.Web",
       "SourceType": "Discovered",
@@ -1596,6 +1613,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\ec8566ee-7f61-457d-a183-a8be23b02b8a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\images\\WELCOME TO KAWS BAKU.png",
+      "SourceId": "FProject.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\",
+      "BasePath": "_content/FProject.Web",
+      "RelativePath": "images/WELCOME TO KAWS BAKU.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\WELCOME TO KAWS BAKU.png"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\FINAL!\\FinalProj\\FProject\\wwwroot\\js\\order.js",

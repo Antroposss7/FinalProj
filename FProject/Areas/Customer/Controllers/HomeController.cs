@@ -22,7 +22,7 @@ namespace FProject.Web.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        public IActionResult Index(int pageNumber = 1, int pageSize = 2)
+        public IActionResult Index(int pageNumber = 1, int pageSize = 4)
         {
             var productList = _unitOfWork.Product.GetAll(includeProperties: "Category,ProductImages")
                                                 .Skip((pageNumber - 1) * pageSize)
